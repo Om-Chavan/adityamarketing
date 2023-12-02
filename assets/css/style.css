@@ -940,7 +940,9 @@ textarea.input-field {
   .navbar-list {
     all: unset;
     display: flex;
-    align-items: center;
+    align-items: end;
+   justify-content: right;
+
     gap: 30px;
   }
 
